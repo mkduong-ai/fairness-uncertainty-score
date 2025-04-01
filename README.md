@@ -88,3 +88,19 @@ These libraries are required to perform calculations and generate plots. To inst
 ```bash
 pip install -r requirements.txt
 ```
+## Citation
+
+When using our score in your work, cite our paper:
+
+```BibTeX
+@inproceedings{duong2024uncertain,
+  title        = {{(Un)certainty of (Un)fairness: Preference-Based Selection of Certainly Fair Decision-Makers}},
+  author       = {Manh Khoi Duong and Stefan Conrad},
+  booktitle    = {ECAI 2024 - 27th European Conference on Artificial Intelligence},
+  series       = {Frontiers in Artificial Intelligence and Applications},
+  volume       = {392},
+  pages        = {882--889},
+  year         = {2024},
+  publisher    = {IOS Press},
+}
+```
